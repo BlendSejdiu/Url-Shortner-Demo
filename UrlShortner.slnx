@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="UrlShortner.AppHost/UrlShortner.AppHost.csproj" Id="f78170fd-a149-4312-939a-c6a357649dee" />
+  <Project Path="UrlShortner.csproj" />
+  <Project Path="UrlShortner.ServiceDefaults/UrlShortner.ServiceDefaults.csproj" />
+</Solution>
