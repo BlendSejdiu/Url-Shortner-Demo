@@ -9,10 +9,6 @@ builder.AddNpgsqlDataSource("url-shortener");
 
 builder.AddRedisDistributedCache("redis");
 
-#pragma warning disable EXTEXP0018
-//builder.Services.add();
-#pragma warning restore EXTEXP0018
-
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
